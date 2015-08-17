@@ -1,0 +1,19 @@
+the char PNG in hex
+chunk data size = 13 bytes
+name=IHDR
+width = 1
+height = 1
+bit depth of 8
+color type of 2
+compression of 0
+filter of 0
+interlace of 0
+
+chunk data size = 15 bytes
+name = IDAT
+
+the actual color
+
+CRC code
+chunk data size = 0 bytes
+name = IEND

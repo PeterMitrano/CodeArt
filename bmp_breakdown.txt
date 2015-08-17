@@ -1,0 +1,20 @@
+------FILE HEADER-------
+signature 'BM'
+file size '58 bytes'
+reserved as 0
+data offset '54'
+------INFO HEADER-------
+size of into header '40'
+width
+height
+planes
+bitcount
+compression
+image size
+x pixels per m
+y pixels per m
+colors used
+colors important
+color table
+RGB
+RGB
